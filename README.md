@@ -1,7 +1,7 @@
 
-# Api E-mail project for Spring Boot!! 🚀🚀
+# Microservice E-mail project for Spring Boot!! 🚀🚀
 
-### API to send email with SMTP from Google
+### Microservice to send email with SMTP from Google
 
 # Technologies used
 
@@ -22,13 +22,13 @@
 ## ✏️Application structure design
 
 ##### BUSINESS MICROSERVICES
-![]()
+![Application structure design/BUSINESS MICROSERVICES.drawio.png](https://github.com/daniellimadev/email-sending-microservices/blob/main/Application%20structure%20design/BUSINESS%20MICROSERVICES.drawio.png)
 
 ##### FULL FLOW ASYNCHRONOUS COMMUNICATION
-![]()
+![Application structure design/FULL FLOW ASYNCHRONOUS COMMUNICATION.drawio.png](https://github.com/daniellimadev/email-sending-microservices/blob/main/Application%20structure%20design/FULL%20FLOW%20ASYNCHRONOUS%20COMMUNICATION.drawio.png)
 
 ##### CloudMQP
-![]()
+![Application structure design/CloudMQP.drawio.png](https://github.com/daniellimadev/email-sending-microservices/blob/main/Application%20structure%20design/CloudMQP.drawio.png)
 
 <br>
 
