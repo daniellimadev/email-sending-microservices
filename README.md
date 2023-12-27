@@ -46,7 +46,9 @@ $ java -jar target/email-0.0.1-SNAPSHOT.jar
 $ java -jar target/user-0.0.1-SNAPSHOT.jar
 ```
 
-The API can be accessed at [localhost:8080](http://localhost:8080).
+The Microservice email can be accessed at [localhost:8082](http://localhost:8082).
+
+The Microservice user can be accessed at [localhost:8081](http://localhost:8081).
 
 ## API Endpoints
 
