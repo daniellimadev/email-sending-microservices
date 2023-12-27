@@ -32,6 +32,40 @@
 
 <br>
 
+## How to Execute
+
+- Clone git repository
+- Build the project:
+```
+$ ./mvnw clean package
+```
+- Run the application:
+```
+$ java -jar target/email-0.0.1-SNAPSHOT.jar
+
+$ java -jar target/user-0.0.1-SNAPSHOT.jar
+```
+
+The API can be accessed at [localhost:8080](http://localhost:8080).
+
+## API Endpoints
+
+To make the HTTP requests below, the tool [Postman](https://www.postman.com/) was used:
+
+- Create Task
+```
+$ POST http://localhost:8080/todos
+
+[
+  {
+    "name": "Debora",
+    "email": "debora@gmail.com"
+  }
+]
+```
+
+<br>
+
 <h3>Author</h3>
 
 <a href="https://www.linkedin.com/in/danielpereiralima/">
