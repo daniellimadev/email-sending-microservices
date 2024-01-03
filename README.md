@@ -56,7 +56,7 @@ To make the HTTP requests below, the tool [Postman](https://www.postman.com/) wa
 
 - Create Task
 ```
-$ POST http://localhost:8080/todos
+$ POST http://localhost:8081/users
 
 [
   {
